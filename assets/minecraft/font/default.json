@@ -1,0 +1,121 @@
+{
+    "providers": [
+		{
+            "chars": [
+                "ㄅ"
+            ],
+            "file": "custom/icons/mcs_icon.png",
+            "ascent": 4,
+            "height": 9,
+            "type": "bitmap"
+        },
+		{
+            "chars": [
+                "㐅"
+            ],
+            "file": "custom/ranks/rank_spectator.png",
+            "ascent": 6,
+            "height": 14,
+            "type": "bitmap"
+        },
+		{
+            "chars": [
+                "㐈"
+            ],
+            "file": "custom/ranks/rank_host.png",
+            "ascent": 6,
+            "height": 14,
+            "type": "bitmap"
+        },
+		{
+            "chars": [
+                "㐉"
+            ],
+            "file": "custom/ranks/rank_team1.png",
+            "ascent": 6,
+            "height": 14,
+            "type": "bitmap"
+        },
+		{
+            "chars": [
+                "㐊"
+            ],
+            "file": "custom/ranks/rank_team2.png",
+            "ascent": 6,
+            "height": 14,
+            "type": "bitmap"
+        },
+		{
+            "chars": [
+                "㐋"
+            ],
+            "file": "custom/ranks/rank_team3.png",
+            "ascent": 6,
+            "height": 14,
+            "type": "bitmap"
+        },
+		{
+            "chars": [
+                "㐌"
+            ],
+            "file": "custom/ranks/rank_team4.png",
+            "ascent": 6,
+            "height": 14,
+            "type": "bitmap"
+        },
+		{
+            "chars": [
+                "㐍"
+            ],
+            "file": "custom/ranks/rank_team5.png",
+            "ascent": 6,
+            "height": 14,
+            "type": "bitmap"
+        },
+		{
+            "chars": [
+                "㐎"
+            ],
+            "file": "custom/ranks/rank_team6.png",
+            "ascent": 6,
+            "height": 14,
+            "type": "bitmap"
+        },
+		{
+            "chars": [
+                "㐏"
+            ],
+            "file": "custom/ranks/rank_team7.png",
+            "ascent": 6,
+            "height": 14,
+            "type": "bitmap"
+        },
+		{
+            "chars": [
+                "㐐"
+            ],
+            "file": "custom/ranks/rank_team8.png",
+            "ascent": 6,
+            "height": 14,
+            "type": "bitmap"
+        },
+		{
+            "chars": [
+                "㐑"
+            ],
+            "file": "custom/ranks/rank_team9.png",
+            "ascent": 6,
+            "height": 14,
+            "type": "bitmap"
+        },
+		{
+            "chars": [
+                "㐒"
+            ],
+            "file": "custom/ranks/rank_team10.png",
+            "ascent": 6,
+            "height": 14,
+            "type": "bitmap"
+        }
+    ]
+}

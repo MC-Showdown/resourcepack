@@ -1,0 +1,57 @@
+# Paste the character that's after the double dots (:) in the chat.
+# This is NOT a config file, just a clean way to list the special characters.
+# NOTE: These will only work if you used the example-default.yml, or if you didn't change anything in the oraxen chat_tags.yml config.
+
+# generic
+guest: ༽
+novice: ཀ
+rookie: ༾
+noob: ཁ
+member: གྷ
+amateur: ༿
+stranger: ི
+player: ག
+citizen: ང
+trusted: ཅ
+
+# royal ranks
+peasant: ད
+noble: དྷ
+baron: ན
+viscount: པ
+earl: ཕ
+duke: བ
+
+# donator 1
+knight: ཆ
+elite: ཇ
+hero: ཈
+legend: ཉ
+overlord: ཊ
+ultimate: ཋ
+
+# donator 2
+vip: ཌ
+vip+: ཌྷ
+mvp: ཎ
+mvp+: ཏ
+mvp++: ཐ
+
+# ore ranks
+stone: བྷ
+iron: མ
+gold: ཙ
+redstone: ཚ
+dimaond: ཛ
+emerald: ཯
+
+# staff
+staff: ཛྷ
+support: ཝ
+builder: ཞ
+helper: ཟ
+mod: འ
+moderator: ཡ
+manager: ལ
+admin: ར
+owner: ཤ

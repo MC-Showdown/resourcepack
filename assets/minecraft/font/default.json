@@ -6,7 +6,16 @@
             ],
             "file": "custom/icons/mcs_icon.png",
             "ascent": 4,
-            "height": 9,
+            "height": 24,
+            "type": "bitmap"
+        },
+		{
+            "chars": [
+                "亅"
+            ],
+            "file": "custom/icons/mcs_icon.png",
+            "ascent": 20,
+            "height": 24,
             "type": "bitmap"
         },
 		{

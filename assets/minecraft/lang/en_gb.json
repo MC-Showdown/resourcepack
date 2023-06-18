@@ -3,5 +3,7 @@
   "language.region": "United Kingdom",
   "language.code": "en_gb",
   "effect.minecraft.luck": "\u00A74MC \u00A76Showdown",
-  "container.inventory": ""
+  "container.inventory": "",
+  "multiplayer.downloadingTerrain": "Loading Map...",
+  "item.minecraft.diamond_shovel": "\u00A76Spleef \u00A74Shovel"
 }

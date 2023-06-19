@@ -1,0 +1,8 @@
+{
+	"mcs.intro":{
+		"category": "master",
+		"sounds": [
+			"custom/intro"
+		]
+	}
+}

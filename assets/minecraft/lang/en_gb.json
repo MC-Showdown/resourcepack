@@ -2,8 +2,18 @@
   "language.name": "English",
   "language.region": "United Kingdom",
   "language.code": "en_gb",
-  "effect.minecraft.luck": "\u00A74MC \u00A76Showdown",
+  "effect.minecraft.luck": "\u00A74ᴍᴄ \u00A76sʜᴏᴡᴅᴏᴡɴ",
   "container.inventory": "",
-  "multiplayer.downloadingTerrain": "Loading Map...",
-  "item.minecraft.diamond_shovel": "\u00A76Spleef \u00A74Shovel"
+  "multiplayer.downloadingTerrain": "ʟᴏᴀᴅɪɴɢ ᴍᴀᴘ...",
+  "item.minecraft.diamond_shovel": "\u00A76sᴘʟᴇᴇғ \u00A74sʜᴏᴠᴇʟ",
+  "item.minecraft.bow": "\u00A76ᴋʙᴍ \u00A74ʙᴏᴡ",
+  "menu.game": "",
+  "menu.disconnect": "\u00A74ᴘʟᴇᴀsᴇ ᴅᴏɴ'ᴛ ʟᴇᴀᴠᴇ :(",
+  "menu.options": "\u00A76ᴏᴘᴛɪᴏɴs",
+  "menu.playerReporting": "\u00A74\u00A7lᴅɪsᴀʙʟᴇᴅ!",
+  "menu.sendFeedback": "\u00A74ɢɪᴠᴇ ғᴇᴇᴅʙᴀᴄᴋ",
+  "menu.reportBugs": "\u00A74ʀᴇᴘᴏʀᴛ ʙᴜɢs",
+  "menu.returnToGame": "\u00A74ʙᴀᴄᴋ ᴛᴏ ᴍᴄ sʜᴏᴡᴅᴏᴡɴ",
+  "gui.advancements": "\u00A76ᴀᴅᴠᴀɴᴄᴇᴍᴇɴᴛs",
+  "gui.stats": "\u00A76sᴛᴀᴛɪsᴛɪᴄs"
 }

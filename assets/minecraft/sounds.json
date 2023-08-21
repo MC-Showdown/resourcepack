@@ -4,5 +4,11 @@
 		"sounds": [
 			"custom/intro"
 		]
+	},
+	"mcs.countdown":{
+		"category": "master",
+		"sounds": [
+			"custom/countdown"
+		]
 	}
 }

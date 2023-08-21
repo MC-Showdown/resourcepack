@@ -20,6 +20,42 @@
         },
 		{
             "chars": [
+                "ァ"
+            ],
+            "file": "custom/icons/mcs_spleef.png",
+            "ascent": 10,
+            "height": 15,
+            "type": "bitmap"
+        },
+		{
+            "chars": [
+                "ア"
+            ],
+            "file": "custom/icons/mcs_parkour.png",
+            "ascent": 10,
+            "height": 15,
+            "type": "bitmap"
+        },
+		{
+            "chars": [
+                "ィ"
+            ],
+            "file": "custom/icons/mcs_buildbattle.png",
+            "ascent": 10,
+            "height": 15,
+            "type": "bitmap"
+        },
+		{
+            "chars": [
+                "イ"
+            ],
+            "file": "custom/icons/mcs_tntrun.png",
+            "ascent": 10,
+            "height": 15,
+            "type": "bitmap"
+        },
+		{
+            "chars": [
                 "㐅"
             ],
             "file": "custom/ranks/rank_spectator.png",
@@ -125,6 +161,24 @@
             "ascent": 6,
             "height": 14,
             "type": "bitmap"
-        }
+        },
+		{
+			"chars": [
+				"滶"
+			],
+			"file": "custom/icons/heart_full.png",
+			"ascent": 8,
+			"height": 9,
+			"type": "bitmap"
+		},
+		{
+			"chars": [
+				"滷"
+			],
+			"file": "custom/icons/heart_empty.png",
+			"ascent": 8,
+			"height": 9,
+			"type": "bitmap"
+		}
     ]
 }

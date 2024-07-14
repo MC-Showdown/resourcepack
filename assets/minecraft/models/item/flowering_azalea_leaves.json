@@ -1,23 +1,8 @@
 {
-  "parent": "minecraft:block/flowering_azalea_leaves",
-  "overrides": [
-    {
-      "predicate": {
-        "custom_model_data": 1
-      },
-      "model": "custom/hat_crown"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 2
-      },
-      "model": "custom/hat_christ"
-    },
-	{
-	  "predicate": {
-		"custom_model_data": 3
-	  },
-	  "model": "custom/pet_mushroom"
-	}
-  ]
+	"parent": "minecraft:block/flowering_azalea_leaves",
+	"overrides": [
+		{"predicate": {"custom_model_data":1},"model": "custom/hat/crown"},
+		{"predicate": {"custom_model_data":2},"model": "custom/hat/christ"},
+		{"predicate": {"custom_model_data":3},"model": "custom/pet/mushroom"}
+	]
 }

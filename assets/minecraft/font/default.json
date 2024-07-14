@@ -56,6 +56,24 @@
         },
 		{
             "chars": [
+                "ゥ"
+            ],
+            "file": "custom/icons/mcs_survivalgames.png",
+            "ascent": 10,
+            "height": 15,
+            "type": "bitmap"
+        },
+		{
+            "chars": [
+                "ウ"
+            ],
+            "file": "custom/icons/mcs_kbm.png",
+            "ascent": 10,
+            "height": 15,
+            "type": "bitmap"
+        },
+		{
+            "chars": [
                 "㐅"
             ],
             "file": "custom/ranks/rank_spectator.png",
@@ -176,6 +194,15 @@
 				"滷"
 			],
 			"file": "custom/icons/heart_empty.png",
+			"ascent": 8,
+			"height": 9,
+			"type": "bitmap"
+		},
+		{
+			"chars": [
+				"答"
+			],
+			"file": "custom/icons/coin.png",
 			"ascent": 8,
 			"height": 9,
 			"type": "bitmap"

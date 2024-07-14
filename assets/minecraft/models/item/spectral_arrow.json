@@ -1,0 +1,26 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures":{ "layer0": "minecraft:item/spectral_arrow"},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1},"model": "custom/gui/close"},
+		{"predicate": {"custom_model_data": 2},"model": "custom/gui/back"},
+		{"predicate": {"custom_model_data": 3},"model": "custom/gui/next"},
+		{"predicate": {"custom_model_data": 4},"model": "custom/gui/previous"},
+		{"predicate": {"custom_model_data": 10000},"model": "custom/gui/colour/black"},
+		{"predicate": {"custom_model_data": 10001},"model": "custom/gui/colour/blue"},
+		{"predicate": {"custom_model_data": 10002},"model": "custom/gui/colour/brown"},
+		{"predicate": {"custom_model_data": 10003},"model": "custom/gui/colour/cyan"},
+		{"predicate": {"custom_model_data": 10004},"model": "custom/gui/colour/gray"},
+		{"predicate": {"custom_model_data": 10005},"model": "custom/gui/colour/green"},
+		{"predicate": {"custom_model_data": 10006},"model": "custom/gui/colour/light_blue"},
+		{"predicate": {"custom_model_data": 10007},"model": "custom/gui/colour/light_gray"},
+		{"predicate": {"custom_model_data": 10008},"model": "custom/gui/colour/lime"},
+		{"predicate": {"custom_model_data": 10009},"model": "custom/gui/colour/magenta"},
+		{"predicate": {"custom_model_data": 10010},"model": "custom/gui/colour/orange"},
+		{"predicate": {"custom_model_data": 10011},"model": "custom/gui/colour/pink"},
+		{"predicate": {"custom_model_data": 10012},"model": "custom/gui/colour/purple"},
+		{"predicate": {"custom_model_data": 10013},"model": "custom/gui/colour/red"},
+		{"predicate": {"custom_model_data": 10014},"model": "custom/gui/colour/white"},
+		{"predicate": {"custom_model_data": 10015},"model": "custom/gui/colour/yellow"}
+	]
+}

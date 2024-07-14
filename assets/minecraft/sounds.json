@@ -1,14 +1,32 @@
 {
-	"mcs.intro":{
+	"mcsintro":{
 		"category": "master",
 		"sounds": [
 			"custom/intro"
 		]
 	},
-	"mcs.countdown":{
+	"mcscountdown":{
 		"category": "master",
 		"sounds": [
 			"custom/countdown"
+		]
+	},
+	"mcsrush":{
+		"category": "master",
+		"sounds": [
+			"custom/rush"
+		]
+	},
+	"benhetmaar":{
+		"category": "master",
+		"sounds": [
+			"custom/benhetmaar"
+		]
+	},
+	"benhetmaarbox":{
+		"category": "master",
+		"sounds": [
+			"custom/benhetmaarbox"
 		]
 	}
 }

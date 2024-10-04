@@ -49,5 +49,5 @@ void main() {
 	
     fragColor = linear_fog(color, vertexDistance, FogStart, FogEnd, FogColor);
 	
-	if(vertexDistance > 2020.0 && isRed(fragColor) && ScreenSize.x - gl_FragCoord.x < 52) discard;
+	//if(vertexDistance > 2020.0 && isRed(fragColor) && ScreenSize.x - gl_FragCoord.x < 52) discard;
 }

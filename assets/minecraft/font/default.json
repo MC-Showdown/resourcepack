@@ -4,7 +4,7 @@
             "chars": [
                 "ㄅ"
             ],
-            "file": "custom/icons/mcs_icon.png",
+            "file": "custom/icons/logo/mcs_icon.png",
             "ascent": 4,
             "height": 24,
             "type": "bitmap"
@@ -13,7 +13,7 @@
             "chars": [
                 "亅"
             ],
-            "file": "custom/icons/mcs_icon.png",
+            "file": "custom/icons/logo/mcs_icon.png",
             "ascent": 20,
             "height": 24,
             "type": "bitmap"
@@ -22,7 +22,7 @@
             "chars": [
                 "ァ"
             ],
-            "file": "custom/icons/mcs_spleef.png",
+            "file": "custom/icons/game/mcs_spleef.png",
             "ascent": 10,
             "height": 15,
             "type": "bitmap"
@@ -31,7 +31,7 @@
             "chars": [
                 "ア"
             ],
-            "file": "custom/icons/mcs_parkour.png",
+            "file": "custom/icons/game/mcs_parkour.png",
             "ascent": 10,
             "height": 15,
             "type": "bitmap"
@@ -40,7 +40,7 @@
             "chars": [
                 "ィ"
             ],
-            "file": "custom/icons/mcs_buildbattle.png",
+            "file": "custom/icons/game/mcs_buildbattle.png",
             "ascent": 10,
             "height": 15,
             "type": "bitmap"
@@ -49,7 +49,7 @@
             "chars": [
                 "イ"
             ],
-            "file": "custom/icons/mcs_tntrun.png",
+            "file": "custom/icons/game/mcs_tntrun.png",
             "ascent": 10,
             "height": 15,
             "type": "bitmap"
@@ -58,7 +58,7 @@
             "chars": [
                 "ゥ"
             ],
-            "file": "custom/icons/mcs_survivalgames.png",
+            "file": "custom/icons/game/mcs_survivalgames.png",
             "ascent": 10,
             "height": 15,
             "type": "bitmap"
@@ -67,7 +67,7 @@
             "chars": [
                 "ウ"
             ],
-            "file": "custom/icons/mcs_kbm.png",
+            "file": "custom/icons/game/mcs_kbm.png",
             "ascent": 10,
             "height": 15,
             "type": "bitmap"
@@ -184,7 +184,7 @@
 			"chars": [
 				"滶"
 			],
-			"file": "custom/icons/heart_full.png",
+			"file": "custom/icons/gui/heart_full.png",
 			"ascent": 8,
 			"height": 9,
 			"type": "bitmap"
@@ -193,7 +193,7 @@
 			"chars": [
 				"滷"
 			],
-			"file": "custom/icons/heart_empty.png",
+			"file": "custom/icons/gui/heart_empty.png",
 			"ascent": 8,
 			"height": 9,
 			"type": "bitmap"
